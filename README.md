@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ccdalao&bg_color=ffffff" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=graywhite&count_private=true&username=ccdalao&layout=compact&hide_border=true&hide=html,css" />
 
 ### 你好，世界 👋
 

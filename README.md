@@ -1,74 +1,95 @@
-<h1 align="center">Hi, I'm ercer_china 👋</h1>
+<h1 align="center">✨ 这里是 ercer_china / ccdalao ✨</h1>
 
 <p align="center">
-  一个喜欢折腾工具、自动化、小服务和 Web 项目的学生开发者。
+  <strong>学生开发者 · 工具折腾人 · 偶尔写点奇怪但有用的东西</strong>
 </p>
 
 <p align="center">
-  <a href="http://ercer.cn">Blog</a> ·
+  <a href="http://ercer.cn">个人博客</a> ·
   <a href="https://github.com/ccdalao">GitHub</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🌸 About Me
 
-- 🌏 来自 China
-- 🎓 Student / 学习中，折腾中
-- 🛠️ 喜欢写一些能解决实际问题的小工具
-- 🧩 关注 Web、自动化、Cloudflare、PHP / Python / JavaScript
-- 😄 Motto：能跑起来，就已经赢了一半
+你好，这里是 `ercer_china`。
+
+一个喜欢把日常小问题写成代码解决的人。  
+平时会折腾一些 Web 小工具、自动化脚本、API、课程相关项目，以及各种“先跑起来再说”的小玩意。
+
+> 我？垃圾佬。  
+> 但垃圾佬也有自己的工具箱。  
 
 ---
 
-## 🧰 Tech Stack
+## 🧩 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Projects
+## 🎮 Main Quests
 
-- [typecho_ercerlink](https://github.com/ccdalao/typecho_ercerlink)  
-  Typecho 相关项目，持续更新中。
-
-- [NetEase-cloud-music-review-API](https://github.com/ccdalao/NetEase-cloud-music-review-API)  
-  PHP 网易云音乐热评调用 API。
-
-- [Analyze_XXT_Schedule_Excel](https://github.com/ccdalao/Analyze_XXT_Schedule_Excel)  
-  超星学习通 Excel 课表解析工具。
-
-- [BetterWXSound](https://github.com/ccdalao/BetterWXSound)  
-  微信声音相关的小工具尝试。
+- 写一些能解决实际问题的小工具
+- 折腾 Web、API、自动化脚本
+- 把突然冒出来的想法变成能跑的 Demo
+- 偶尔维护一些老项目
+- 在代码世界里捡垃圾、拼装备、升级打怪
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ccdalao&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccdalao&layout=compact&theme=tokyonight" height="165" />
-</p>
+### 🎵 NetEase Cloud Music Review API
+
+[NetEase-cloud-music-review-API](https://github.com/ccdalao/NetEase-cloud-music-review-API)
+
+PHP 网易云音乐热评调用项目。  
+一个简单、直接、实用的小 API。
+
+---
+
+### 📚 超星学习通课表解析
+
+[Analyze_XXT_Schedule_Excel](https://github.com/ccdalao/Analyze_XXT_Schedule_Excel)
+
+用于解析超星学习通 Excel 课表。  
+让课表数据变得更容易处理。
 
 ---
 
-## 🧠 What I'm Building
+### 🏠 简单个人主页
 
-最近在关注：
+[Simple-personal-homepage](https://github.com/ccdalao/Simple-personal-homepage)
 
-- 自动化部署与脚本工具
-- Web 小应用
-- 日常问题的小型工程化解决方案
-- AI工作流
+一个简单的个人主页项目。  
+适合快速搭建自己的小站入口。
 
 ---
+
+### 🔊 BetterWXSound
+
+[BetterWXSound](https://github.com/ccdalao/BetterWXSound)
+
+围绕微信声音体验做的一些小尝试。  
+属于“我觉得这里还能再好一点”的那类项目。
+
+---
+
+## 🌙 Current Status
+
+```txt
+状态：学习中 / 折腾中 / 修 Bug 中
+技能：能跑就行，但偶尔也想写漂亮点
+属性：Web + 自动化 + 小工具 + 实用主义
+
 
 ## 📫 Contact
 

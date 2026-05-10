@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="http://ercer.cn">个人博客</a> ·
+  <a href="http://blog.ercer.cn">个人博客</a> ·
   <a href="https://github.com/ccdalao">GitHub</a>
 </p>
 
@@ -93,8 +93,9 @@ PHP 网易云音乐热评调用项目。
 
 ## 📫 Contact
 
-- Blog: [ercer.cn](http://ercer.cn)
+- Blog: [ercer.cn](http://blog.ercer.cn)
 - GitHub: [@ccdalao](https://github.com/ccdalao)
+- mail:842105949@qq.com
 
 ---
 
